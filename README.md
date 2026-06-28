@@ -5,7 +5,7 @@
 
 <!-- WAVE HEADER — orange gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&animation=fadeIn&fontColor=ffffff&fontSize=28" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ANIMATED TYPING TITLE -->
@@ -36,21 +36,6 @@
 
 ---
 
-<!-- ABOUT ME — VIDEO/GIF PLACEHOLDER -->
-> **📽️ NOTE:** Replace the image below with your own screen recording GIF.
-> Record a quick terminal demo (e.g. one of your agents running) using any screen recorder,
-> convert to GIF with [ezgif.com](https://ezgif.com/video-to-gif), upload to your repo under
-> `assets/demo.gif`, then replace the src below.
-
-<p align="center">
-  <img src="https://github.com/KeshavCracks/KeshavCracks/raw/main/assets/demo.gif"
-       alt="Keshav's AI agent demo"
-       width="600"
-       onerror="this.style.display='none'"/>
-</p>
-
----
-
 ## ⚡ Who I Am
 
 ```python
@@ -60,6 +45,7 @@ keshav = {
     "education"   : "B.Tech CSE @ GGSIPU, New Delhi (2nd Year)",
     "stack"       : ["LangChain", "LangGraph", "RAG", "Python", "TypeScript"],
     "focus"       : "Agentic workflows · LLM evals · Production AI systems",
+    "currently_building" : "multi-agent systems that reason, plan & execute",
     "certifications": [
         "NVIDIA Certified Agentic AI Professional",
         "IBM RAG & Agentic AI Professional",
